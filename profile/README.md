@@ -8,12 +8,11 @@ Here, we collaborate, innovate, and contribute to a variety of projects aimed at
 ## 🎯 Powered By  
 
 <p align="center">
-  <a href="https://www.bloggersconvision.com">
-    <img src="https://raw.githubusercontent.com/HICASSPU/.github/refs/heads/main/profile/Frame%20510.png" alt="BloggersCon Vision" width="350"/>
-  </a>
+  <a style="text-decoration:none;" href="https://www.bloggersconvision.com">
+    <img src="https://raw.githubusercontent.com/HICASSPU/.github/refs/heads/main/profile/Frame%20510.png" alt="BloggersCon Vision" width="350"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.bytebloggerbase.com">
+  <a style="text-decoration:none;" href="https://www.bytebloggerbase.com">
     <img src="https://bytebloggerbase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo-Main-image.5d7b05a8.png&w=1080&q=75" alt="Byte BloggerBase" width="350"/>
   </a>
 </p>  
@@ -26,17 +25,11 @@ Here, we collaborate, innovate, and contribute to a variety of projects aimed at
 
  ****🌐 Follow Us****
 <p>
-  <a href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50"/>
-  </a>
+  <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" ><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="50"/>
-  </a>
+  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" ><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="50"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://chat.whatsapp.com/Hs5MBRWdEvGJWlwy5jXCl3">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50"/>
-  </a>
+  <a style="text-decoration:none;" href="https://chat.whatsapp.com/Hs5MBRWdEvGJWlwy5jXCl3"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50"/></a>
 </p>  
 
 ---
@@ -57,18 +50,27 @@ Our club focuses on:
 Here is the team behind HICA Club:  
 
 ### **Leadership**  
-- **Raman Mohurle** - Chapter Lead  &nbsp; <a href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/>
-  </a>
+- **Raman Mohurle** - Chapter Lead  &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
   &nbsp;
-  <a href="https://www.linkedin.com/company/hica-sspu" >
+  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
   </a>
-- **Harsh Navgale** - Co-Chapter Lead  
+- **Harsh Navgale** - Co-Chapter Lead   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
+  &nbsp;
+  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
+  </a>
 
 ### **Cybersecurity Team**  
 - **Tejas Kulkarni** - Cyber Security Lead  
-- **Varad Mene** - Cyber Security Team  
+- **Varad Mene** - Cyber Security Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
+  &nbsp;
+  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
+  </a>
 
 ### **Web Development Team**  
 - **Atharva Wakodikar** - Web Dev Lead  
@@ -81,17 +83,42 @@ Here is the team behind HICA Club:
 - **Aryan Devlal** - Blockchain Lead  
 
 ### **Public Relations (PR) Team**  
-- **Paramjeet Singh Rajpurohit** - PR Lead  
-- **Pranav Wattamwar** - PR Team  
+- **Paramjeet Singh Rajpurohit** - PR Lead   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
+  &nbsp;
+  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
+  </a>
+- **Pranav Wattamwar** - PR Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
+  &nbsp;
+  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
+  </a>
 
 ### **Social Media Team**  
-- **Om Tanpure** - Social Media Lead  
+- **Om Tanpure** - Social Media Lead   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
+  &nbsp;
+  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
+  </a>
+- **Gauri Khatate** - Social Media Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
+  &nbsp;
+  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
+  </a>
 - **Ninad Atul Deo** - Social Media Team  
-- **Gauri Khatate** - Social Media Team  
 - **Kartik Ganpat Mohite** - Social Media Team  
 
 ### **Management Team**  
-- **Shantanu Bhosale** - Management Lead  
+- **Shantanu Bhosale** - Management Lead   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
+  &nbsp;
+  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
+  </a>
 - **Shubh Patel** - Management Team  
 - **Shreya Kiran Patil** - Management Team  
 - **Vanshikha Vijaysingh Panwar** - Management Team [Anchoring]  
