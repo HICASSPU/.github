@@ -8,11 +8,11 @@ Here, we collaborate, innovate, and contribute to a variety of projects aimed at
 ## 🎯 Powered By  
 
 <p align="center">
-  <a style="text-decoration:none;" href="https://www.bloggersconvision.com">
+  <a style="text-decoration:none;" href="https://bloggersconvision.com">
     <img src="https://raw.githubusercontent.com/HICASSPU/.github/refs/heads/main/profile/Frame%20510.png" alt="BloggersCon Vision" width="350"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a style="text-decoration:none;" href="https://www.bytebloggerbase.com">
+  <a style="text-decoration:none;" href="https://bytebloggerbase.com">
     <img src="https://bytebloggerbase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo-Main-image.5d7b05a8.png&w=1080&q=75" alt="Byte BloggerBase" width="350"/>
   </a>
 </p>  
