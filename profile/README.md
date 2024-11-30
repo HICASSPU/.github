@@ -13,7 +13,7 @@ Here, we collaborate, innovate, and contribute to a variety of projects aimed at
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.bytebloggerbase.com" target="_blank">
-    <img src="" alt="Byte BloggerBase" width="100"/>
+    <img src="https://bytebloggerbase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo-Main-image.5d7b05a8.png&w=1080&q=75" alt="Byte BloggerBase" width="100"/>
   </a>
 </p>  
 
