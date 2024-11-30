@@ -57,7 +57,13 @@ Our club focuses on:
 Here is the team behind HICA Club:  
 
 ### **Leadership**  
-- **Raman Mohurle** - Chapter Lead  
+- **Raman Mohurle** - Chapter Lead  &nbsp; <a href="https://www.instagram.com/hica_sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/hica-sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
+  </a>
 - **Harsh Navgale** - Co-Chapter Lead  
 
 ### **Cybersecurity Team**  
