@@ -8,12 +8,13 @@ Here, we collaborate, innovate, and contribute to a variety of projects aimed at
 ## 🎯 Powered By  
 
 <p align="center">
-  <a href="https://www.bloggersconvision.com" target="_blank">
+  <a href="https://www.bloggersconvision.com">
     <img src="https://raw.githubusercontent.com/HICASSPU/.github/refs/heads/main/profile/Frame%20514.png" alt="BloggersCon Vision" width="100"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.bytebloggerbase.com" target="_blank">
-    <img src="https://bytebloggerbase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo-Main-image.5d7b05a8.png&w=1080&q=75" alt="Byte BloggerBase" width="100"/>
+
+  
+  <a href="https://www.bytebloggerbase.com">
+    <img src="https://bytebloggerbase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo-Main-image.5d7b05a8.png&w=1080&q=75" alt="Byte BloggerBase" width="400"/>
   </a>
 </p>  
 
