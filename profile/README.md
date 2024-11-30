@@ -9,12 +9,12 @@ Here, we collaborate, innovate, and contribute to a variety of projects aimed at
 
 <p align="center">
   <a href="https://www.bloggersconvision.com">
-    <img src="https://raw.githubusercontent.com/HICASSPU/.github/refs/heads/main/profile/Frame%20510.png" alt="BloggersCon Vision" width="400"/>
+    <img src="https://raw.githubusercontent.com/HICASSPU/.github/refs/heads/main/profile/Frame%20510.png" alt="BloggersCon Vision" width="350"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://www.bytebloggerbase.com">
-    <img src="https://bytebloggerbase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo-Main-image.5d7b05a8.png&w=1080&q=75" alt="Byte BloggerBase" width="400"/>
+    <img src="https://bytebloggerbase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo-Main-image.5d7b05a8.png&w=1080&q=75" alt="Byte BloggerBase" width="350"/>
   </a>
 </p>  
 
