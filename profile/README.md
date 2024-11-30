@@ -17,7 +17,7 @@ Led by dedicated enthusiasts like **Raman Mohurle** (Microsoft MVP 2024) and **H
 
 <p align="center">
   <a href="https://www.bloggersconvision.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="BloggersCon Vision" width="100"/>
+    <img src="https://raw.githubusercontent.com/HICASSPU/.github/refs/heads/main/profile/Frame%20514.png" alt="BloggersCon Vision" width="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.bytebloggerbase.com" target="_blank">
