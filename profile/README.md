@@ -1,4 +1,5 @@
-# HICA Club @ Symbiosis Skills and Professional University 🚀  
+# HICA Club @ Symbiosis Skills and Professional University 🚀  <img src="https://komarev.com/ghpvc/?username=HICASSPU&label=Profile%20views&color=0e75b6&style=flat" alt="HICASSPU" />
+
 
 Welcome to the **HICA Club's official GitHub Repository!**  
 Here, we collaborate, innovate, and contribute to a variety of projects aimed at fostering a culture of learning and growth in **cybersecurity**, **ethical hacking**, and **technology awareness**.  
