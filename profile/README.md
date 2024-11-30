@@ -1,4 +1,4 @@
-# HICA Club @ Symbiosis Skills and Professional University 🚀  <img src="https://komarev.com/ghpvc/?username=HICASSPU&label=Profile%20views&color=0e75b6&style=flat" alt="HICASSPU" />
+# HICA Club @Symbiosis Skills and Professional University🚀  <img src="https://komarev.com/ghpvc/?username=HICASSPU&label=Profile%20views&color=0e75b6&style=flat" alt="HICASSPU" />
 
 
 Welcome to the **HICA Club's official GitHub Repository!**  
