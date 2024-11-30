@@ -71,56 +71,21 @@ Here is the team behind HICA Club:
   <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
   </a>
-- **Tejas Kulkarni** - Cyber Security Lead   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
+- **Tejas Kulkarni** - Cyber Security Lead
 
 ### **Web Development Team**  
-- **Atharva Wakodikar** - Web Dev Lead   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
-- **Amit Jagannath Jadhav** - Web Dev Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
+- **Atharva Wakodikar** - Web Dev Lead
+- **Amit Jagannath Jadhav** - Web Dev Team
 
 ### **Cloud Computing Team**  
-- **Anant Upadhyay** - Cloud Computing Lead   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
+- **Anant Upadhyay** - Cloud Computing Lead
 
 ### **Blockchain Team**  
-- **Aryan Devlal** - Blockchain Lead   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
+- **Aryan Devlal** - Blockchain Lead
 
 ### **Public Relations (PR) Team**  
-- **Paramjeet Singh Rajpurohit** - PR Lead   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
-- **Pranav Wattamwar** - PR Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
+- **Paramjeet Singh Rajpurohit** - PR Lead
+- **Pranav Wattamwar**
 
 ### **Social Media Team**  
 - **Om Tanpure** - Social Media Lead   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
@@ -135,88 +100,23 @@ Here is the team behind HICA Club:
   <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
   </a>
-- **Ninad Atul Deo** - Social Media Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
-- **Kartik Ganpat Mohite** - Social Media Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
+- **Ninad Atul Deo**
+- **Kartik Ganpat Mohite**
 
 ### **Anchoring Team**
-- **Vanshikha Vijaysingh Panwar**   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
-- **Nikhil Gotame**   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
+- **Vanshikha Vijaysingh Panwar**
+- **Nikhil Gotame**
   
 ### **Management Team**  
-- **Shantanu Bhosale** - Management Lead   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
-- **Shubh Patel** - Management Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
-- **Shreya Kiran Patil** - Management Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
-- **Sumeet Sutar** - Management Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
-- **Mansi Karpe** - Management Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
-- **Hrushika Pendharkar** - Management Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
-- **Abhinav Galagali** - Management Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
-- **Anuja Gedam** - Management Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
-- **Aditi Kulkarni** - Management Team   &nbsp; <a style="text-decoration:none;" href="https://www.instagram.com/hica_sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="15"/></a>
-  &nbsp;
-  <a style="text-decoration:none;" href="https://www.linkedin.com/company/hica-sspu" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="15"/>
-  </a>
+- **Shantanu Bhosale** - Management Lead
+- **Shubh Patel**
+- **Shreya Kiran Patil**
+- **Sumeet Sutar**
+- **Mansi Karpe**
+- **Hrushika Pendharkar**
+- **Abhinav Galagali**
+- **Anuja Gedam**
+- **Aditi Kulkarni**
 
 ---
 
