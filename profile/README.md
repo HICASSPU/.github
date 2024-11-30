@@ -13,6 +13,21 @@ Led by dedicated enthusiasts like **Raman Mohurle** (Microsoft MVP 2024) and **H
 
 ---
 
+## 🎯 Powered By  
+
+<p align="center">
+  <a href="https://www.bloggersconvision.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="BloggersCon Vision" width="100"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.bytebloggerbase.com" target="_blank">
+    <img src="https://cyberdosti.com/logo.png" alt="Byte BloggerBase" width="100"/>
+  </a>
+</p>  
+
+---
+
+
 ## 🎯 What We Do  
 
 Our club focuses on:  
