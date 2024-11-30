@@ -25,16 +25,16 @@ Here, we collaborate, innovate, and contribute to a variety of projects aimed at
 
  ****🌐 Follow Us****
 <p>
-  <a href="https://www.instagram.com/hica_sspu" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>
+  <a href="https://www.instagram.com/hica_sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/hica-sspu" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="40"/>
+  <a href="https://www.linkedin.com/company/hica-sspu" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://chat.whatsapp.com/Hs5MBRWdEvGJWlwy5jXCl3" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40"/>
+  <a href="https://chat.whatsapp.com/Hs5MBRWdEvGJWlwy5jXCl3">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50"/>
   </a>
 </p>  
 
